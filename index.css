@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background-color: rgb(0, 0, 0);
+
+}
+section{
+    background-color:#121212;
+    color: white;
+    box-shadow: 3px 1px 1px rgb(0, 0, 0);
+text-align: center;
+padding: 12px;
+border-radius: 12px;
+}
+p{
+    font-size: 100px;
+}
+
